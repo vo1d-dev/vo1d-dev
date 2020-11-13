@@ -1,5 +1,6 @@
+<p align="center">
 # @vo1d#0003 | Discord ain't good for me 🥴
-
+</p>
 
 <p align="center">
 <a href="#">
