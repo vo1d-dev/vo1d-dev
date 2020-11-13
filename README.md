@@ -12,9 +12,9 @@
 ```
 
 ## Used languages
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vo1d-dev&layout=compact&theme=material-palenight" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vo1d-dev&layout=compact&theme=material-palenight"/>
+
 ##
 ```bash
 ```
-
-<img href="https://external-preview.redd.it/sgupg2QyvwFm7eLaH0isYTSx1IAYT2cnG9EG2qaK7dc.png?auto=webp&s=c2fe73665a3b109d9a040fb4f70fcba4e2875149" />
+<img src="https://external-preview.redd.it/sgupg2QyvwFm7eLaH0isYTSx1IAYT2cnG9EG2qaK7dc.png?auto=webp&s=c2fe73665a3b109d9a040fb4f70fcba4e2875149"/>
