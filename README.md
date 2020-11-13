@@ -3,13 +3,13 @@
 
 
 <p align="center">
-<a href="#">
+<a href="#" >
   <img align="center" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://www.shareicon.net/data/512x512/2017/01/17/871956_flag_512x512.png" />
 </a>
-<a href="https://twitter.com/vo1d_dev">
+<a href="https://twitter.com/vo1d_dev" target="_blank">
   <img align="center" alt="vo1d | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-<a href="https://discord.bio/p/vo1d">
+<a href="https://discord.bio/p/vo1d" target="_blank">
   <img align="center" alt="vo1d Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 </p>
