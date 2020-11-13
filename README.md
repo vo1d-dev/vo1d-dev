@@ -1,5 +1,5 @@
 <p align="center">
-# @vo1d#0003 | Discord ain't good for me 🥴
+  <h1> vo1d#0003 | Discord ain't good for me 🥴 </h1>
 </p>
 
 <p align="center">
