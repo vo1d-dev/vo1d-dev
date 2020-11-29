@@ -18,7 +18,6 @@
 - **[Instagram](https://www.instagram.com/vo1d.dev/)**
 - **[Discord.bio](https://discord.bio/p/vo1d)**
 - **[Steam](https://steamcommunity.com/id/-vo1d/)**
-- **[My Server](https://discord.com/invite/InfernalCore)**
 ##
 ```bash
 ```
