@@ -7,7 +7,7 @@
 
 ## About me
 - 💬 **Spanish / English**
-- 🍰 **21 years old**
+- 🍰 **22 years old**
 - 🤖 **Discord Bot developer**
 - ✨ **Discord Partner**
 ##
